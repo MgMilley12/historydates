@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="tasks_array">
+        <item>Flip Cards</item>
+        <item>Сопоставление</item>
+    </string-array>
+    <string name="flip_cards_fragment">Flip Cards Fragment</string>
+</resources>

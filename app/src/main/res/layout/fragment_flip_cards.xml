@@ -1,0 +1,13 @@
+<!-- res/layout/fragment_flip_cards.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Добавьте здесь элементы для отображения содержимого FlipCardsFragment -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/flip_cards_fragment"
+        android:textSize="18sp"
+        android:layout_centerInParent="true"/>
+</RelativeLayout>

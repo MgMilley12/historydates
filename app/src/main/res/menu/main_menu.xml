@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_flip_cards"
+        android:title="Flip Cards" />
+    <item
+        android:id="@+id/menu_matching_game"
+        android:title="Сопоставление" />
+</menu>
